@@ -15,3 +15,10 @@ We find that the feature extraction of the existing anomaly detection algorithm 
 Four data sets, Kitsune, CICIDS2017, MAWILAB and UNSW-NB15, are used in this paper to evaluate the performance of our scheme.
 
 ## Demo Code
+A demo script for "Defense Test of Kitsune" is provided in wgan_mirai.py.  
+A demo script for "Performance Test of GAN" is provided in wgan_mirai.py.  
+A demo script for "Evasion Performance Test of Insertion Attacks" is provided in wgan_mirai.py.  
+A demo script for "Versatility Test of FPAttack" is provided in wgan_mirai.py.  
+A demo script for "Comparison of Two Feature Extraction Algorithms" is provided in wgan_mirai.py.  
+A demo script for "FPDefense Detection Performance Test Before FPAttack" is provided in wgan_mirai.py.  
+A demo script for "FPDefense Defense Performance Test After FPAttack" is provided in wgan_mirai.py.  
